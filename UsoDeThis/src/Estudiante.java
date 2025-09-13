@@ -17,13 +17,5 @@ public class Estudiante {
         System.out.println("Nombre del estudiante: "+this.nombre+"\nEdad del estudiante: "+this.edad);
 
     }
-    
-
-    
-
-
-    
-
-    
 
 }
